@@ -4,8 +4,8 @@
     "api",
     "filament"
   ],
-  "name": "module-cms-navigation",
-  "package": "liberusoftware/module-cms-navigation",
+  "name": "module-cms-menus",
+  "package": "liberusoftware/module-cms-menus",
   "version": "0.1.1",
   "service_providers": [
     "Liberu\\Cms\\Menus\\MenusServiceProvider"

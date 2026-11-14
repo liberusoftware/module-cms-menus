@@ -9,7 +9,7 @@
     "illuminate/database": "^13.38.0",
     "illuminate/support": "^13.38.0"
   },
-  "name": "liberusoftware/module-cms-navigation",
+  "name": "liberusoftware/module-cms-menus",
   "autoload-dev": {
     "psr-4": {
       "Liberu\\Cms\\Menus\\Tests\\": "tests/"
@@ -19,7 +19,7 @@
   "prefer-stable": true,
   "extra": {
     "liberu": {
-      "name": "module-cms-navigation"
+      "name": "module-cms-menus"
     },
     "laravel": {
       "providers": [
